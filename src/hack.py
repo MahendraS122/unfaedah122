@@ -2,4 +2,4 @@ import os
 import sys
 
 os.system('termux-setup-storage')
-os.system('mpv /MUSIK ')
+os.system('mpv /storage/src/MUSIK')
